@@ -1,6 +1,6 @@
 # 🌐 Urshita Roy — Personal Portfolio
 
-> A modern, dark-themed personal portfolio website for **Urshita Roy** — Creative Director, UI/UX Designer, and Web Developer from Bihar, India.
+> A modern, dark-themed personal portfolio website for **Urshita Roy** — Creative Director, UI/UX Designer, and Web Developer .
 
 ---
 
